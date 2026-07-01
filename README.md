@@ -85,6 +85,7 @@ This dashboard transforms raw operational data into actionable business insights
 # 🏗️ System Architecture
 
 DizinS AI follows a **multi-agent orchestration architecture**.
+<img width="1237" height="773" alt="Image" src="https://github.com/user-attachments/assets/9e3a991e-9591-48e0-ba44-d19232b7bcdb" />
 
 ```mermaid
 graph TD
@@ -411,7 +412,9 @@ http://localhost:5173
 ---
 
 # 🎬 Demo Workflows
-
+<img width="1915" height="1022" alt="Image" src="https://github.com/user-attachments/assets/464f13d6-97c9-48c7-9f34-a927e7e5cbc6" />
+<img width="1918" height="1035" alt="Image" src="https://github.com/user-attachments/assets/11c857c1-983c-4790-b353-39336a7fbfd3" />
+<img width="1918" height="1012" alt="Image" src="https://github.com/user-attachments/assets/5a57c806-c1bd-4eed-a746-50060490ec30" />
 ## 🏨 Room Booking Flow
 1. User requests room booking  
 2. Booking Agent collects booking details  
