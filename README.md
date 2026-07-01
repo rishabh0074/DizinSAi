@@ -85,7 +85,6 @@ This dashboard transforms raw operational data into actionable business insights
 # 🏗️ System Architecture
 
 DizinS AI follows a **multi-agent orchestration architecture**.
-<img width="1237" height="773" alt="Image" src="https://github.com/user-attachments/assets/9e3a991e-9591-48e0-ba44-d19232b7bcdb" />
 
 ```mermaid
 graph TD
